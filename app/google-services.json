@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674552965986",
+    "firebase_url": "https://fir-androidauthenticationw.firebaseio.com",
+    "project_id": "fir-androidauthenticationw",
+    "storage_bucket": "fir-androidauthenticationw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674552965986:android:332d7da6b8bc6324229a3b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandroidauthenticationwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674552965986-phngku6h99sgi8a1sakfbn3pc771o975.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseandroidauthenticationwhatsapp",
+            "certificate_hash": "5d7c88f057907d36e9c599a7e524c41e1450c436"
+          }
+        },
+        {
+          "client_id": "674552965986-5t1cm11f7qr60m4nvmgtqm1lk68cket7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XgpQmjm3yHPSDW04SRpn0Drw7rOdvU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674552965986-5t1cm11f7qr60m4nvmgtqm1lk68cket7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
